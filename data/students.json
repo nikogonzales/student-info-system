@@ -1,0 +1,22 @@
+[
+  {
+    "student_id": "002315cb",
+    "name": "Euburn De Asis",
+    "email": "Euburn@gmail.com",
+    "course": "BSIT",
+    "year_level": "3",
+    "gpa": 0.0,
+    "created_at": "2026-10-10T21:32:41.011207",
+    "updated_at": "2026-10-10T21:32:41.011221"
+  },
+  {
+    "student_id": "3fb3a9e6",
+    "name": "NikoTest3",
+    "email": "nikotest3@gmail.com",
+    "course": "BSIT",
+    "year_level": "3",
+    "gpa": 0.0,
+    "created_at": "2026-10-10T21:35:53.748142",
+    "updated_at": "2026-10-10T21:35:53.748152"
+  }
+]
